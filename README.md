@@ -118,18 +118,4 @@ Subject mantiene una colección de observadores mediante el atributo observers.
 
 El atributo tareaActual es privado y solo puede modificarse mediante métodos de la clase.
 
----
-
-# Resultado Esperado
-
-Al publicar una nueva tarea:
-
-Nueva tarea publicada: Investigar el patrón Observer
-
-Juan recibió la tarea: Investigar el patrón Observer
-
-María recibió la tarea: Investigar el patrón Observer
-
-Pedro recibió la tarea: Investigar el patrón Observer
-
-Esto demuestra el funcionamiento del patrón Observer mediante la notificación automática de múltiples observadores cuando cambia el estado del Subject.
+uncionamiento del patrón Observer mediante la notificación automática de múltiples observadores cuando cambia el estado del Subject.
